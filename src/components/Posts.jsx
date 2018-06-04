@@ -20,6 +20,7 @@ class Posts extends React.Component {
       <div>
         <h1>Posts</h1>
         {postItems}
+        
       </div>
     )
   }
